@@ -1,5 +1,5 @@
 body {
-background-color: cyan;
+background-color: darkgrey;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -9,8 +9,8 @@ margin: 0;
 }
 
 button {
-    background-color: bisque;
-    color: chartreuse;
+    background-color: beige;
+    color: azure;
     font-family: "Bai Jamjuree", sans-serif;
 }
 
